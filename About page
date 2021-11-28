@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>About</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <nav id ="main">
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <h1>Portfolio of Web Application Projects </h1>
+        <p>by Unathi Makwabe </p>
+
+        <h1>ABOUT</h1>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+            <a href="projects.html">Projects</a>
+    
+        </nav>
+        <h2>About myself...</h2>
+        <b>My Biography</b>
+        <p>South African male, born in the early 90s, NBA fanatic, movie aficianado and book collector.</p>
+        <!--insert flag - 91 jersey, nba logo,--> 
+        <b>Education</b>
+        <p>University of South Africa Bachelor of Commerce Graduate & Microsoft Certified Developer. </p> 
+          <!--insert UNISA and MS logos--> 
+        <b>Skills</b>
+        <p>Impeccable spoken and written communication skills, HTML, CSS, Javascript, SQL, Express, React, C# and GitHub - of course!</p>
+        <!--insert the mic, and logos--> 
+        <p>Click <a href="Images/Unathi Makwabe - ICT Resume NOV2021 - Copy.pdf">here</a> to peek at my resume</p>
+
+        <h2>Products and Services</h2>
+
+
+<div class="container">
+    <h3>Simple and professional looking Website</h3>
+    <ul>
+        <li>Price: R1,200 - R3,500 </li>
+        <li>Estimated time of completion: 30 - 90 days </li>
+        <li>Service and gurantee</li>
+        <h4>Features</h4>
+        <li>Standard pages - Home About Services and Contact pages</li>
+        <li>Digital Styling and interactive features</li>
+        <li>Hosting configuration and business emails</li>
+ 
+    </ul>
+    <h3>Web application with advanced features</h3>
+    <ul>
+        <li>Price: R3,500 - R8,500</li>
+        <li>Estimated time of completion: 3 - 6 months </li>
+        <li>Service and gurantee</li>
+        <h4>Features</h4>
+        <li>E-Commerce store with cart and payment checkout page.</li>
+        <li>Database for storing product and customer information.</li>
+        <li>Registration and Login pages with session management.</li>
+        <li>Intergration of Web APIs and web services. </li>
+
+ 
+    </ul>
+    <h3>Digital marketing and SEO consulting</h3>
+    <ul>
+        <li>Price: 10% of new sales generated</li>
+        <li>Estimated time of completion:3, 6 and 12 month campaigns.</li>
+        <li>Service and gurantee</li>
+        <h4>Features</h4>
+        <li>Configuration of Google Ads to generate more sales.</li>
+        <li>SEO of existing websites to increase traffic and clicks.</li>
+        <li>Management of social media accounts and Youtube channel.</li>
+ 
+    </ul>
+    <h3>Revamp your old and outdated website</h3>
+    <ul>
+        <li>Price: R3,500 - R4,500</li>
+        <li>Estimated time of completion: 30 - 90 days. </li>
+        <li>Service and gurantee</li>
+        <h4>Features</h4>
+        <li>Design and development of a new wesite platform.</li>
+        <li>Modify critiacal information such as company names and contact details.</li>
+        <li>Re-launch your website and generate market buzz about your business. </li>
+ 
+    </ul>
+    <h3>Website migration to a new host provider</h3>
+    <ul>
+        <li>Price: R8,000 - R10,000</li>
+        <li>Estimated time of completion: 30 - 90 days</li>
+        <li>Service and gurantee</li>
+        <h4>Features</h4>
+        <li>Change a hosting provider - for better service or better pricing.</li>
+        <li>Migrate your platform to the cloud -Azure, AWS or Google cloud. </li>
+        <li>Save time and money by letting cloud providers management scalabilty of your digital platform.</li>
+ 
+    </ul>
+    <h3>Website and application security</h3>
+    <ul>
+        <li>Price: R10,000 - R55,000</li>
+        <li>Estimated time of completion:</li>
+        <li>Service and gurantee</li>
+        <h4>Features</h4>
+        <li>Security audit of your website - SQL injection, Cross-site scripting and cross site request forgery. </li>
+        <li>Application security audit - secure sensitive information such as banking details and client information. </li>
+        <li>Compliance audit - Make sure you are POPI compliant. (Protection of personal Information)</li>
+        
+    </ul>
+
+</div>
+
+<footer>
+	<p>unathimakwabe.com</p>
+    <p>unathimakwabe@gmail.com</p>
+    <p>Facebook </p>
+    <p>Instagram</p>
+    <p>LinkedIn </p>
+
+</footer>
+</nav>
+        <script src="" async defer></script>
+    </body>
+</html>
