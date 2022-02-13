@@ -1,59 +1,280 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Home</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
-    </head>
-    <body>
-        <nav id ="main">
-        <!--[if lt IE 7]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
+	<head>
+		<title>UnathiMakwabe.co.za</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-        <h1>Portfolio of Web Application Projects </h1>
-        <p>by Unathi Makwabe </p>
-        <h1>HOME</h1>
-        <nav>
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="contact.html">Contact</a>
-            <a href="projects.html">Projects</a>
-    
-        </nav>
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
 
-        <div id ="projects">
-            <h2>Summary of projects</h2>
-            <ul>
-                <li><a href="Projects/Electronic business/index.html">Electronics Business</a></li>
-                <li><a href="Projects/Electronic business/index.html">Garden Service</a></li>
-                <li><a href="Projects/E-Commerce store - books/index.html">Vanilla E-Commerce store</a></li>
-                <li><a href="Projects/Boardroom voter/index.html">Boardroom Voting system </a></li>
-                <li><a href="Projects/Quiz application/index.html">Timed Quiz application</a></li>
-                <li> <a href="Projects/Math game/index.html">JavaScript Math Game</a></li>
-                
-            </ul>
-     
-        </div>
+				<!-- One -->
+					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+						<div class="content">
+							<h1>Define Your Space</h1>
+							<h3>Web Design & Developent Studio</h3>
+							<p class="major">By Unathi Makwabe </p>
+							<ul class="actions stacked">
+								<li><a href="#first" class="button big wide smooth-scroll-middle">About Us </a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/Images/backrounds/background2.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+						<div class="content">
+							<h2>We do it all for your business</h2>
+					
+							<ul>
+								<h3>Web development</h3>
+								<li>Website development and hosting </li>
+								<li>Website maintenance</li>
+								<li>Windows 10 support</li>
+								<hr>
+								<h3>Network devices</h3>
+
+								<li>Routers, Servers and Switch management</li>
+								<li>Voice-over IP Telephone solutions</li>
+								<li>Network printer Installation</li>
+								<hr>
+								<h3>Infrustructure</h3>
+
+								<li>Network cabling solutions</li>
+								<li>Server rack installation</li>
+								<li>Cloud Solution Support</li>
 
 
-      
+							</ul>
+							<ul class="actions stacked">
+								<li><a href="#" class="button">Learn More</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/Images/home/aboutus.jpg" alt="" />
+						</div>
+					</section>
 
-<footer>
-	<p>unathimakwabe.com</p>
-    <p>unathimakwabe@gmail.com</p>
-    <p>Facebook </p>
-    <p>Instagram</p>
-    <p>LinkedIn </p>
+				<!-- Three -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Services</h2>
+							<p>Every business needs a well designed and easy to follow website to authenticate its image and reputation in the market place. We can design, develop and deploy a website that will serve your business for many years to come.</p> 
+							
+							<p>We also conduct digital marketing services aimed at attracting more clients through online advertisements and social media campaigns. </p>
+							<p>We can also handle the physical infrustructure requirements of your business to optimise and ultimately economise your expenditure on ICT equipment and services. </p>
+							<ul class="actions stacked">
+								<li><a href="#" class="button">Learn More</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/Images/home/design.jpg" alt="" />
+						</div>
+					</section>
 
-</footer>
-        <script src="" async defer></script>
-    </body>
+				<!-- Four -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>The Process</h2>
+
+							<h3>Design</h3>
+							<p>Great design begins with the end in Mind. This is where your goals and purpose are clarified so that they can be effectively incorporated into the final design product. </p>
+							<h3>Development</h3>
+							<p>All the design elements discussed in the design phase are then  translated into HTML, CSS, JavaScript, SQL and PHP code for browsers to render into web dynamic and interactive pages. </p>
+							<h3>Deployment </h3>
+							<p>All the website files are then transferred to the hosts providers web servers where the are easily accessible to the public. </p>
+							<h3>Maintenance</h3>
+							<p>As your business grows and changes, we are on call to modify, adapt and transform your web platform into whatever your business strategy requires for for the future.  </p>
+							<ul class="actions stacked">
+								<li><a href="#" class="button">Contact Me </a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/Images/home/process.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Five -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Projects</h2>
+						
+						</div>
+
+						<!-- Gallery -->
+							<div class="gallery style2 medium lightbox onscroll-fade-in">
+								<article>
+									<a href="images/Images/home/electrician.jpg" class="image">
+										<img src="images/Images/home/electrician.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Electronic Surveillence Systems </h3>
+										<p>Making technology was definatly the greatest challenge n this rendering for a small business owner specialising in security system installations. </p>
+										<ul class="actions fixed">
+											<li><span class="button small"><a href="images/Images/electrical.png">Details</a></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/02.jpg" class="image">
+										<img src="images/Images/home/mower.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Landscaping and refuse removal </h3>
+										<p>A simple and clean template that was redesigned to meet the basic needs of a landscape business owener operating in Pretoria, South Africa. </p>
+										<ul class="actions fixed">
+											<li><span class="button small"><a href="images/Images/landscaping.png">Details</a></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/03.jpg" class="image">
+										<img src="images/Images/home/plumber.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Plumbing Business</h3>
+										<p>A clean and crisp render for a local plumbing business with outstanding customer service.</p>
+										<ul class="actions fixed">
+											<li><span class="button small"><a href="images/Images/plumber.png">Details</a></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<p class="image">
+										<img src="images/Images/home/turnkey2.jpg" alt="" />
+									</p>
+									<div class="caption">
+										<h3>Turnkey Automation redesign</h3>
+										<p>A redesign concept of a cutting edge technologi manufacturing and engineering company with an impressive cliet base.   </p>
+										<ul class="actions fixed">
+											<li><span class="button small"><a href="images/Images/zipcord2.png">Details</a></span></li>
+										</ul>
+									</div>
+								</article>
+								
+
+					</section>
+
+				<!-- Six -->
+					<section class="wrapper style1 align-center">
+						<div class="inner" >
+							<h2>Addional services</h2>
+							<p>A well designed website is only the beginning of establishing your professional online presence. The following services represent the addional services that we are able to offer to make your online profile optimised, integrated and secure:</p>
+							<div class="items style1 medium onscroll-fade-in">
+								<section>
+									<span class="icon style2 major fa-gem"></span>
+									<h3>Simple and professional looking Website</h3>
+										<div class="bullets" style="text-align:left">
+											<li style ="color:blue";>Price: R1,200 - R3,500</li>
+											<li>30 - 90 days</li>
+											<li>Standard Busiiness pages </li>
+											<li>Digital Styling </li>
+											<li>Hosting administration</li>
+									
+								</div>
+									
+								</section>
+								<section>
+									<span class="icon solid style2 major fa-save"></span>
+									<h3>Web application with advanced features</h3>
+									<div class="bullets" style="text-align:left">
+										<li style ="color:blue";>Price:R3,500 - R8,500</li>
+										<li>3 - 6 months</li>
+										<li>E-Commerce store </li>
+										<li>Database administration</li>
+										<li>Registration and Login pages </li>
+										<li>Integration of Web API s </li>
+									</div>
+								</section>
+
+								<section>
+									<span class="icon solid style2 major fa-chart-bar"></span>
+									<h3>Digital marketing and SEO consulting</h3>
+									<div class="bullets" style="text-align:left">
+										<li style ="color:blue";>Price: Negotiable Hourly rate</li>
+										<li>6 and 12 month campaigns</li>
+									<li>Configuration of Google Ads</li>
+									<li>Search engine optimization</li>
+									<li>Social media accounts</li>
+								</div>
+								</section>
+
+								<section>
+									<span class="icon solid style2 major fa-wifi"></span>
+									<h3>Design and development of a new wesite platform.</h3>
+									<div class="bullets" style="text-align:left">
+										<li style ="color:blue";>Price: R3,500 - R4,500</li>
+										<li>New website platform</li>
+										<li>Modify critical information</li>
+										<li>Re-launch your website </li>
+									</div>
+								</section>
+								<section>
+									<span class="icon solid style2 major fa-cog"></span>
+									<h3>Change your current hosting provider</h3>
+									<div class="bullets" style="text-align:left">
+									<li style ="color:blue";>Price: Negotiable Hourly rate</li>
+									<li>30 - 90 days</li>
+									<li>Change a hosting provider</li>
+									<li>Migrate  to the cloud</li>
+								</div>
+								</section>
+								<section>
+									<span class="icon style2 major fa-paper-plane"></span>
+									<h3>Security audit of your website</h3>
+									<div class="bullets" style="text-align:left">
+									<li style ="color:blue";>Price: Negotiable Hourly rate</li>
+									<li>Security audit of your website</li>
+									<li> Cyber attack prevention</li>
+									<li>Compliance audit (POPI)</li>
+									</div>
+						
+							</div>
+						</div>
+					</section>
+
+				<!-- Seven -->
+					<section class="wrapper style1 align-center">
+						<div class="inner medium">
+							<h2>Send me an E-Mail with your request at:</h2>
+								<h3>unathimakwabe@gmail.com</h3>
+						
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+								<li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+							<p>&copy; unathimakwabe.co.za<a href="https://html5up.net"></a>.</p>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
 </html>
